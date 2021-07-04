@@ -1,0 +1,1 @@
+.s-rec{height:252px;overflow:hidden}.s-rec .gg{width:320px;margin-top:52px}

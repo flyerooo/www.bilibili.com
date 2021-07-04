@@ -1,0 +1,1 @@
+.primary-menu-itnl{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-align:center;align-items:center;padding:20px 0;width:100%}.tab-line-itnl{display:inline-block;height:46px;border-left:1px solid #e7e7e7;margin:0 20px}.tab-line-itnl.none{margin:0 24px 0 0}

@@ -1,0 +1,1 @@
+chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/js/components/modules/tagging/suggestions/suggestions.js

@@ -1,0 +1,1 @@
+.mini-header{position:absolute;z-index:1;width:100%;height:56px}.mini-header__content{box-sizing:border-box;padding:10px 24px;line-height:30px;position:relative;margin:0 auto;display:-ms-flexbox;display:flex;-ms-flex-align:start;align-items:flex-start;-ms-flex-pack:justify;justify-content:space-between}@media screen and (max-width:1122px){.mini-header__content{padding:10px 12px}}

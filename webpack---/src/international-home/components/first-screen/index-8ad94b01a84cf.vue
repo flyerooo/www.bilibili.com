@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"first-screen b-wrap"},[_c('SpaceBetween',[_c('Carousel',{staticClass:"report-wrap-module report-scroll-module",attrs:{"id":"reportFirst1","list":_vm.locsData[3197] || [],"locId":3197}}),_c('Recommend')],1),_c('SpaceBetween',{staticClass:"report-wrap-module report-scroll-module",attrs:{"id":"reportFirst2"}},[_c('Extension',{attrs:{"list":_vm.locsData}}),_c('AdWindow',{attrs:{"list":_vm.locsData[29],"locId":29}})],1),_c('Match',{staticClass:"report-wrap-module report-scroll-module",attrs:{"id":"reportFirst3"}})],1)}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

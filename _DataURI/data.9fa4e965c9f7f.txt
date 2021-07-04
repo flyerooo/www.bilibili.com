@@ -1,0 +1,1 @@
+chrome-extension://fbcdnjeoghampomjjaahjgjghdjdbbcj/scripts/module/version.js

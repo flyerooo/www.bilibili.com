@@ -1,0 +1,1 @@
+.storey-box .proxy-box{min-height:1000px}

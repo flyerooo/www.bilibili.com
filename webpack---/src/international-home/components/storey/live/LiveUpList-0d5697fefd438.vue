@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.list.length > 0)?_c('div',{staticClass:"live-rank"},_vm._l((_vm.list),function(item,index){return _c('a',{key:("live-rankitem-" + index),staticClass:"live-rank-item",attrs:{"href":item.link,"target":"_blank"},on:{"click":function($event){return _vm.handelClickReport(item, index)}}},[_c('div',{staticClass:"rank-face"},[(_vm.showNumber)?_c('span',{staticClass:"number",class:{'on': index < 3}},[_vm._v(_vm._s(index + 1))]):_vm._e(),_c('van-image',{attrs:{"src":item.face,"options":{c: 1, q: 100},"width":"44","height":"44"}}),_c('div',{staticClass:"txt"},[_c('p',[_vm._v(_vm._s(item.uname))]),_c('p',{staticClass:"p2"},[_vm._v(_vm._s(item.title))])])],1),_c('div',{staticClass:"count"},[_c('i',{staticClass:"bilifont bili-icon_xinxi_renqi"}),_vm._v(_vm._s(_vm.formatNum(item.online)))])])}),0):_c('EmptyState')}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.visible),expression:"visible"}],staticClass:"lt-row"},[_c('div',{staticClass:"lt-col"},[_c('div',{staticClass:"login-tip"},[_c('div',{staticClass:"close",on:{"click":_vm.close}},[_c('svg',{attrs:{"viewBox":"0 0 100 100"}},[_c('path',{attrs:{"d":"M2 2 L98 98 M 98 2 L2 98Z","stroke-width":"10px","stroke":"#212121","stroke-linecap":"round"}})])]),_c('div',{staticClass:"title"},[_vm._v("\n        登录bilibili，享受更多权益！\n      ")]),_c('LoginTipContent'),_c('a',{staticClass:"login-btn",attrs:{"href":_vm.handleHref('https://passport.bilibili.com/login'),"target":"_blank"},on:{"click":_vm.handleReport}},[_vm._v("\n        立即登录\n      ")])],1)])])}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

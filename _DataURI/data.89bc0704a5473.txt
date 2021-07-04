@@ -1,0 +1,1 @@
+chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js

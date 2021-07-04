@@ -1,0 +1,1 @@
+.empty-state{position:relative;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.empty-state i{color:#999;font-size:30px}.empty-state i span{font-size:12px;vertical-align:middle;margin-left:5px}

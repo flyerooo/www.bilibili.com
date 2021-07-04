@@ -1,0 +1,1 @@
+.ifmt h3{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:justify;justify-content:space-between;margin-bottom:16px;height:36px;color:#212121;font-size:20px;font-weight:400}

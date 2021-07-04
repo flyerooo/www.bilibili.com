@@ -1,0 +1,1 @@
+chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/node_modules/@popmotion/easing/dist/easing.es.js

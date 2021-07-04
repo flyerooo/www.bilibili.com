@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"extension"},[_c('StoreyTitle',{attrs:{"info":{iconfont: 'bili-tuiguang', title: _vm.$HomeLang['5']}}},[(_vm.fireData && _vm.fireData.length)?_c('div',{staticClass:"text-info",attrs:{"slot":"left"},slot:"left"},_vm._l((_vm.fireData),function(item,index){return _c('a',{key:index,staticClass:"text-info-link",attrs:{"href":item.link,"target":"_blank"}},[_c('i',{staticClass:"bilifont bili-icon_xinxi_huo"}),_vm._v("\n        "+_vm._s(item.text)+"\n      ")])}),0):_vm._e()]),_c('div',{staticClass:"ext-box"},_vm._l((_vm.listSource),function(item,index){return _c('ExVideoCard',{key:("ext-" + index),attrs:{"index":index,"info":item.archive,"adData":item,"locId":34}})}),1)],1)}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

@@ -1,0 +1,1 @@
+chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/node_modules/pose-core/dist/pose-core.es.js

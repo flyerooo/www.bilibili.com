@@ -1,0 +1,1 @@
+.live-list .text-info span{margin-right:24px}

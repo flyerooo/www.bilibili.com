@@ -1,0 +1,1 @@
+chrome-extension://niloccemoadcdkdjlinkgdfekeahmflj/node_modules/react-input-autosize/lib/AutosizeInput.js

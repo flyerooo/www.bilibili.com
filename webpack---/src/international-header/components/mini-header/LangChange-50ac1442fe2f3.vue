@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"lang-change"},[_c('div',{staticClass:"lang-item"},[_c('div',{staticClass:"lang-title"},[_c('i',{staticClass:"lang-icon bilifont bili-icon_dingdao_yuyanshezhi"}),_vm._v("\n      "+_vm._s(_vm.$HeadLang['50'])+"："+_vm._s(_vm.langs[_vm.selectedLang].name)+"\n    ")]),_c('i',{staticClass:"lang-icon-more bilifont bili-icon_caozuo_qianwang"})]),_c('div',{staticClass:"lang-intro"},[_c('ul',_vm._l((_vm.langs),function(item,index){return _c('li',{key:item.lang,staticClass:"lang-intro-item",class:{'on': _vm.selectedLang === index},on:{"click":function($event){return _vm.setLang(item, index)}}},[_vm._v("\n        "+_vm._s(item.name)+" "),_c('i',{staticClass:"bilifont bili-icon_caozuo_xuanzhong"})])}),0)])])}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

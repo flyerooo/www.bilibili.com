@@ -1,0 +1,1 @@
+.extension{width:1286px}.extension .ext-box{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-pack:justify;justify-content:space-between}.ggpos{padding-top:52px}.ggpos .pic{width:100%;border-radius:2px}

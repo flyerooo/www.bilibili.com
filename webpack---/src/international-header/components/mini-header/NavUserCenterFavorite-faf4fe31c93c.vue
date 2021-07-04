@@ -1,0 +1,1 @@
+.van-popover{position:absolute;left:300px}.van-popover.van-popper.van-popper-favorite{top:44px!important;padding:0;border:none;box-shadow:0 3px 6px rgba(0,0,0,.2)!important}

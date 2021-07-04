@@ -1,0 +1,1 @@
+.pgc-no-data{width:100%;height:100%;background-image:url(//s1.hdslb.com/bfs/static/jinkela/international-home/assets/bgm-nodata.png);background-repeat:no-repeat;background-position:50%;text-align:center;display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center}.pgc-no-data span{margin-top:-120px;color:#99a2aa}

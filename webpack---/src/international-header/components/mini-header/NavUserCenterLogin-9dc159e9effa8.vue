@@ -1,0 +1,1 @@
+.van-popover.van-popper.van-popper-login{padding:0;border:none;top:44px!important;box-shadow:0 3px 6px rgba(0,0,0,.2)!important}.van-popover.van-popper.van-popper-login .lang-change .lang-intro{left:-240px}

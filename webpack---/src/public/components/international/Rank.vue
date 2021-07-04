@@ -1,0 +1,1 @@
+.rank-list{width:320px}

@@ -1,0 +1,1 @@
+.live-tabs{width:320px}.live-tabs .tab-switch{display:-ms-flexbox;display:flex;height:36px;margin-right:16px;margin-bottom:16px;-ms-flex-align:center;align-items:center}.live-tabs .tab-switch .tab-switch-item{font-size:12px;line-height:18px;height:22px;margin-right:12px;cursor:pointer}.live-tabs .tab-switch .tab-switch-item.on{border-bottom:1px solid #00a1d6;color:#00a1d6}

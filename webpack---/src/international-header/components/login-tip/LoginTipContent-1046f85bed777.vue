@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _vm._m(0)}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"content"},[_c('div',[_c('div',{staticClass:"lt-icon icon-hd"}),_c('span',{staticClass:"lt-text"},[_vm._v("免费看高清视频")])]),_c('div',[_c('div',{staticClass:"lt-icon icon-time"}),_c('span',{staticClass:"lt-text"},[_vm._v("多端同步播放记录")])]),_c('div',[_c('div',{staticClass:"lt-icon icon-danmaku"}),_c('span',{staticClass:"lt-text"},[_vm._v("发表弹幕/评论")])]),_c('div',[_c('div',{staticClass:"lt-icon icon-video"}),_c('span',{staticClass:"lt-text"},[_vm._v("热门番剧影视看不停")])])])}]
+
+export { render, staticRenderFns }

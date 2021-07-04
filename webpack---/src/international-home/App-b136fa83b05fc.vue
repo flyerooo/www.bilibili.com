@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"app"}},[_c('div',{staticClass:"international-home"},[_c('Header',{attrs:{"navType":1,"bannerData":_vm.bannerData,"lang":_vm.LNG}}),_c('FirstScreen'),_c('Storey',{attrs:{"config":_vm.storeyConfig}}),_c('a',{directives:[{name:"van-report",rawName:"v-van-report:customer-service-entry.click",arg:"customer-service-entry",modifiers:{"click":true}}],staticClass:"contact-help",attrs:{"href":"//www.bilibili.com/v/customer-service","target":"_blank"}},[_vm._v(_vm._s(_vm.$HomeLang['38']))])],1)])}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

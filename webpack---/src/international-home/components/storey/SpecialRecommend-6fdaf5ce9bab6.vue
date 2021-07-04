@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('SpaceBetween',{directives:[{name:"van-lazyload",rawName:"v-van-lazyload",value:(_vm.getSRecommendData),expression:"getSRecommendData"}],staticClass:"s-rec b-wrap"},[_c('div',{staticClass:"card-list"},[_c('StoreyTitle',{attrs:{"info":{iconfont: 'bili-tebietuijian', title: _vm.$HomeLang['12'], link: '//www.bilibili.com/list/recommend/1.html'}}}),_c('div',{staticClass:"zone-list-box"},_vm._l((_vm.list),function(item,index){return _c('VideoCard',{key:("vc-" + index),attrs:{"info":item}})}),1)],1),(_vm.adData)?_c('OperateCard',{staticClass:"gg",attrs:{"info":_vm.adData,"locId":31}}):_vm._e()],1)}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

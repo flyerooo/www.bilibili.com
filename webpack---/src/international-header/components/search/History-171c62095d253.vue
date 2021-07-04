@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.list.length > 0)?_c('ul',{staticClass:"bilibili-search-history report-wrap-module",attrs:{"id":"bilibili-search-history"}},_vm._l((_vm.list),function(item,index){return _c('li',{key:index,staticClass:"history-item",class:_vm.focus === index ? 'focus' : ''},[_c('a',{attrs:{"href":("//search.bilibili.com/all?keyword=" + (encodeURIComponent(item.value)) + "&from_source=webtophistory_search"),"target":"_blank"},domProps:{"textContent":_vm._s(item.value)},on:{"click":function($event){return _vm.reportSearch(item.value)}}}),_c('i',{staticClass:"bilifont bili-icon_sousuo_yichu cancel-icon",on:{"click":function($event){return _vm.deleteHistory(item.value)}}})])}),0):_vm._e()}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

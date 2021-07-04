@@ -1,0 +1,1 @@
+.animated-banner>.layer{position:absolute;left:0;top:0;height:100%;width:100%;display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center}

@@ -1,0 +1,1 @@
+.pgc-rank{width:320px}
